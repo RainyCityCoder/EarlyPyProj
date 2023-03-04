@@ -92,3 +92,4 @@ between letters*): """)
         restart_input = input("Another? (y/n) ")
         restart = restart_input.lower()
 
+# This appears faster than MCTranslator.py
